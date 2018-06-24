@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\obj\Debug\SleepingBarber.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\obj\Debug\SleepingBarber.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\bin\Debug\SleepingBarber.exe.config
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\bin\Debug\SleepingBarber.exe
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\bin\Debug\SleepingBarber.pdb
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\obj\Debug\SleepingBarber.exe
+C:\Users\Дмитрий\source\repos\SleepingBarber\SleepingBarber\obj\Debug\SleepingBarber.pdb
