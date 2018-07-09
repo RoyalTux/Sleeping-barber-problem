@@ -40,7 +40,7 @@ namespace SleepingBarber
                 int Number = (int)number;
                 Console.WriteLine("Клиент {0} идет в парикмахерскую...", Number);
                 Thread.Sleep(Rand.Next(1, 5) * 1000);
-                Console.WriteLine("Клиент {0} has пришел!", Number);
+                Console.WriteLine("Клиент {0} пришел!", Number);
                 waitingRoom.WaitOne();
                 Console.WriteLine("Клиент {0} заходит в комнату ожидания...", Number);
                 barberChair.WaitOne();
